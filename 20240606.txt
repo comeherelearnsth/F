@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="ÑëÊÓÌ¨" tvg-id="CCTV-2²Æ¾­" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2²Æ¾­
+#EXTINF:-1 group-title="å¤®è§†å°" tvg-id="CCTV-2è´¢ç»" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2è´¢ç»
 http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-#EXTINF:-1 group-title="ÑëÊÓÌ¨" tvg-id="CCTV-4ÖĞÎÄ¹ú¼Ê" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4ÖĞÎÄ¹ú¼Ê
+#EXTINF:-1 group-title="å¤®è§†å°" tvg-id="CCTV-4ä¸­æ–‡å›½é™…" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4ä¸­æ–‡å›½é™…
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
-#EXTINF:-1 group-title="ÑëÊÓÌ¨" tvg-id="CCTV-13ĞÂÎÅ" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13ĞÂÎÅ
+#EXTINF:-1 group-title="å¤®è§†å°" tvg-id="CCTV-13æ–°é—»" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13æ–°é—»
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News Now (1080p)
 https://lnc-nbc-news-now.tubi.video/master.m3u8
