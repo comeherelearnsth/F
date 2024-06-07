@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel91/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
+http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4中文国际
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13新闻
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/1300.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15音乐
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/1300.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
