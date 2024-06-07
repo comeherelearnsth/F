@@ -19,3 +19,5 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/130
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/1300.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
+#EXTINF:-1 group-title="BBC" tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC News Now (1080p)
+https://lnc-nbc-news-now.tubi.video/master.m3u8
